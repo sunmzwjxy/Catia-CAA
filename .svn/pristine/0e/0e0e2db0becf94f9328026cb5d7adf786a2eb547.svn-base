@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+Title = "新建工序";
+Label1.Title = "所属GTO或JGD";
+Label3.Title = "工序号*";
+
+MachineCode.Range = "CR929,C919,ARJ21";
+JobStyles.Range = "InstrumentTest,Maintenance,ModificationAssembly";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input Operation code is repeat";
+msg.inputCodeNull = "The Operation code need input";
+msg.nodeFatherNull = "Please select GTO/JGD";
+msg.effectivity = "Please correct Effectivity format";
+Frame1.Title = "装件工序";
+Frame1.RadioButton1.Title = "拆件工序";
+Frame1.RadioButton2.Title = "装件工序";
+CheckButton1.Title = "是否重排工序号";
+Frame1.RadioButton3.Title = "一般工序";

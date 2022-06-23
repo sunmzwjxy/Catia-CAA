@@ -1,0 +1,15 @@
+Label1.Title = "[~CMSystemGTOBOMDlg,Label1.Title~ Nümbér]";
+Title = "[~CMSystemGTOBOMDlg,Title~ Néw GTO Pårt]";
+Label3.Title = "[~CMSystemGTOBOMDlg,Label3.Title~ PART CODE]";
+msg.uniqueIDError = "[~CMSystemGTOBOMDlg,msg.uniqueIDError~ Thé înpüt GTOBOM cøde is repeåt]";
+msg.inputCodeNull = "[~CMSystemGTOBOMDlg,msg.inputCodeNull~ Thé GTOBOM cøde need înpüt]";
+PartCode.Range = "[~CMSystemGTOBOMDlg,PartCode.Range~ GTO,JGD]";
+Label4.Title = "[~CMSystemGTOBOMDlg,Label4.Title~ MFG DEPT]";
+Label6.Title = "[~CMSystemGTOBOMDlg,Label6.Title~ Vérsîøn]";
+msg.nodeFatherNull = "[~CMSystemGTOBOMDlg,msg.nodeFatherNull~ Pléåse select Assembly]";
+Label2.Title = "[~CMSystemGTOBOMDlg,Label2.Title~ PART NAME]";
+msg.Title = "[~CMSystemGTOBOMDlg,msg.Title~ Infø]";
+MFGDEPT.Range = "[~CMSystemGTOBOMDlg,MFGDEPT.Range~ 8012,8008]";
+APLDEPT.Range = "[~CMSystemGTOBOMDlg,APLDEPT.Range~ 8012,8008]";
+Label5.Title = "[~CMSystemGTOBOMDlg,Label5.Title~ APL DEPT]";
+Label7.Title = "[~CMSystemGTOBOMDlg,Label7.Title~ Déscrîptiøn]";

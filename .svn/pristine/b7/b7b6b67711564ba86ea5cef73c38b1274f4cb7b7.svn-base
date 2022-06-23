@@ -1,0 +1,21 @@
+<meta charset="UTF-8"/>
+Title = "New GTO";
+Label1.Title = "Number";
+Label2.Title = "Name*";
+Label3.Title = "Work Level";
+Label4.Title = "Safety protection identification";
+Label5.Title = "Work area";
+Label6.Title = "Skill";
+Label7.Title = "Effectivity*";
+Label8.Title = "Description";
+Label9.Title = "Model";
+
+workLevel.Range = "Key,important,general";
+Safetyidentify.Range = "N,Y";
+WorkArea.Range = "ZJS,JT,QJS,HJS,PW,CW,JY";
+skill.Range = "AV,ME,AV-ME";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input GTO code is repeat";
+msg.inputCodeNull = "The GTO code need input";
+msg.nodeFatherNull = "Please select FTZW";

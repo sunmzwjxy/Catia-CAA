@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+Title = "New Operation";
+Label1.Title = "Belong GTO/JGD";
+Label3.Title = "Operation No*";
+
+MachineCode.Range = "CR929,C919,ARJ21";
+JobStyles.Range = "InstrumentTest,Maintenance,ModificationAssembly";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input Operation code is repeat";
+msg.inputCodeNull = "The Operation code need input";
+msg.nodeFatherNull = "Please select GTO or JGD";
+msg.effectivity = "Please correct Effectivity format";
+Frame1.Title = "Operation Type";
+Frame1.RadioButton1.Title = "Unloading Operation";
+Frame1.RadioButton2.Title = "Loading Operation";
+CheckButton1.Title = "Reorder Operations";
+Frame1.RadioButton3.Title = "General Operation";

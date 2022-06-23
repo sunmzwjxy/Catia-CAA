@@ -1,0 +1,13 @@
+Title = "[十CMSystemJGDDlg,Title十一構ソチ－New JGD]";
+msg.uniqueIDError = "[十CMSystemJGDDlg,msg.uniqueIDError十一構ソチ－The input JGD code is repeat]";
+msg.inputCodeNull = "[十CMSystemJGDDlg,msg.inputCodeNull十一構ソチ－The JGD code need input]";
+Frame1.Title = "[十CMSystemJGDDlg,Frame1.Title十一構ソチ－JGD Infomation]";
+Frame1.Label6.Title = "[十CMSystemJGDDlg,Frame1.Label6.Title十一構ソチ－Description]";
+Frame1.Label4.Title = "[十CMSystemJGDDlg,Frame1.Label4.Title十一構ソチ－AirCraft No*]";
+Frame1.Label5.Title = "[十CMSystemJGDDlg,Frame1.Label5.Title十一構ソチ－Version]";
+Frame1.Label2.Title = "[十CMSystemJGDDlg,Frame1.Label2.Title十一構ソチ－Work Type]";
+Frame1.Label3.Title = "[十CMSystemJGDDlg,Frame1.Label3.Title十一構ソチ－Type]";
+Frame1.Label1.Title = "[十CMSystemJGDDlg,Frame1.Label1.Title十一構ソチ－Card*]";
+msg.nodeFatherNull = "[十CMSystemJGDDlg,msg.nodeFatherNull十一構ソチ－Please select WorkPlan]";
+msg.Title = "[十CMSystemJGDDlg,msg.Title十一構ソチ－Info]";
+JGDCode.Range = "[十CMSystemJGDDlg,JGDCode.Range十一構ソチ－CR929,C919,ARJ21]";

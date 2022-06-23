@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+Title = "新建改装加工单";
+Frame1.Label1.Title = "名称*";
+Frame1.Label2.Title = "类型";
+Frame1.Label3.Title = "飞机型号";
+Frame1.Label4.Title = "飞机架次号*";
+Frame1.Label5.Title = "版本";
+Frame1.Label6.Title = "描述";
+
+JGDCode.Range = "CR929,C919,ARJ21";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input JGD code is repeat";
+msg.inputCodeNull = "The JGD code need input";
+msg.nodeFatherNull = "Please select WorkPlan";

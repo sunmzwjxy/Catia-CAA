@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{ba1f5b9b-c233-4ab4-bf05-2ecb36a9f593}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{b25c4937-8580-48fa-a73b-1e67dee4cb0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{7fe964d1-173d-47a8-a4a3-733a00867e5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{0f4d8b0c-0046-4376-8364-7cd64674aeed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic">
+      <UniqueIdentifier>{75905070-447d-4a83-b74f-c73a9d01c371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons">
+      <UniqueIdentifier>{ab5aee8b-a88f-416c-b594-7f38845d8b8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\normal">
+      <UniqueIdentifier>{da96e4d0-b9fd-4da9-b1a1-f48e72af2f23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\knowledge">
+      <UniqueIdentifier>{c79b6548-3ccb-453b-9493-9bb54d6e08b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\knowledge\scripts">
+      <UniqueIdentifier>{9778478a-4eac-44f3-bcb7-e1610d9670b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{d2f47adf-b5e4-476b-a68e-5402dfdb3b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog\Simplified_Chinese">
+      <UniqueIdentifier>{7abc5a30-1ea2-48fd-badd-7c57d23b6f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{4255149b-8afa-47c6-89f5-5e7571fd04c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{8d61d8fb-8bfc-41cb-8ca1-38ed29f41501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{f87fcb4e-0780-4585-85a8-74adf270d0e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{5bb32958-5cc9-44db-b880-184d4bdf75d2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CM_CUSAddin\PrivateInterfaces\MyStateCommand.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_CUSAddin\ProtectedInterfaces\CM_CUSManuEngAddin.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CM_CUSAddin\CNext\code\dictionary\CM_CUSAddin.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\graphic\icons\normal\FTZhanwei.jpg">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTO.jpg">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTOClone.jpg">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTOOp.jpg">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTOpart.jpg">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\graphic\icons\normal\JGD.jpg">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\knowledge\scripts\DELPLMFProcessOccurrence_ImplementLinkCreation.CATRule">
+      <Filter>CNext\resources\knowledge\scripts</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\knowledge\scripts\DELPLMFProcessOccurrence_ImplementLinkCreation.CATRuleExit">
+      <Filter>CNext\resources\knowledge\scripts</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\msgcatalog\CM_CUSMBOMAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\msgcatalog\CM_CUSMBOMAddin.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\msgcatalog\Simplified_Chinese\CM_CUSMBOMAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\CNext\resources\msgcatalog\Simplified_Chinese\CM_CUSMBOMAddin.CATRsc">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\CM_CUSAddin\IdentityCard\README.md">
+      <Filter>IdentityCard</Filter>
+    </None>
+  </ItemGroup>
+</Project>

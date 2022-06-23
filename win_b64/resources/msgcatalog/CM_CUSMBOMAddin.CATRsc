@@ -1,0 +1,24 @@
+//FT ZW
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.Icon.Normal = "FTZhanwei";
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.Icon.Focused = "FTZhanwei";
+
+//GTO
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.Icon.Normal = "GTO";
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.Icon.Focused = "GTO";
+
+//JGD
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.Icon.Normal = "JGD";
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.Icon.Focused = "JGD";
+
+//GTO BOM
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.Icon.Normal = "GTOpart";
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.Icon.Focused = "GTOpart";
+
+//OP
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.Icon.Normal = "GTOOp";
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.Icon.Focused = "GTOOp";
+
+//GTO OP Duplicate
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.Icon.Normal = "GTOClone";
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.Icon.Focused = "GTOClone";
+

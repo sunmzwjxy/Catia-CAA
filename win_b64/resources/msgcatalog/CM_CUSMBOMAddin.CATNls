@@ -1,0 +1,43 @@
+//----------------------------------------------------------------------------
+// SECTION
+//---------------------------------------------------------------------------- 
+GTODesignSection.Title="GTODesign";
+
+
+// FT ZW
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.Title = "Create FTZW";
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.ShortHelp= "Create FTZW System";
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.Help= "Create FTZW System";
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.LongHelp= "Create FTZW node! please select workplan node.";
+
+// GTO
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.Title = "Create GTO";
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.ShortHelp= "Create GTO System";
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.Help= "Create GTO System";
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.LongHelp= "Create GTO node! please select FTZW node.";
+
+// JDG
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.Title = "Create JGD";
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.ShortHelp= "Create JGD System";
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.Help= "Create JGD System";
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.LongHelp= "Create JGD node! please select FTZW node.";
+
+// GTOBOM
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.Title = "Create GTO BOM";
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.ShortHelp= "Create GTO BOM System";
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.Help= "Create GTO BOM System";
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.LongHelp= "Create GTO BOM System! please select CreateAssembly node.";
+
+// Opeartion
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.Title = "Create Operation";
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.ShortHelp= "Create Operation System";
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.Help= "Create Operation System";
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.LongHelp= "Create Operation System! please select GTO or JGD node.";
+
+// GTO OP Duplicate
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.Title = "Clone GTO Operation";
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.ShortHelp= "Clone GTO Operation System";
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.Help= "Clone GTO Operation System";
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.LongHelp= "Clone GTO Operation System! please select source and target GTO node,clone Operation of source GTO to target GTO.";
+
+

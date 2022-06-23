@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{dbba9722-1d47-43d9-962d-c25332282854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{fe08a67c-efbd-443f-97ac-6567ad7cfc7a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMCreateFTZWSystemCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMCreateGTOBOMSystemCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMCreateGTOSystemCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMCreateJGDSystemCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMCreateWorkingProcedureCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMDuplicateGTOOperationCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMSampleMultiDocumentGTOOperationCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\OperationCloneServer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\PPRUtity.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalInterfaces\PPRUtity.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMSystemFTZWDlg.DSGen">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMSystemGTOBOMDlg.DSGen">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMSystemGTODlg.DSGen">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMSystemGTOOperationDuplicateDlg.DSGen">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CMSystemJGDDlg.DSGen">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\src\CreateWorkingProcedureDlg.DSGen">
+      <Filter>src</Filter>
+    </None>
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemFTZWDlg.cpp" />
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemGTOBOMDlg.cpp" />
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemGTODlg.cpp" />
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemGTOOperationDuplicateDlg.cpp" />
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemJGDDlg.cpp" />
+    <ClCompile Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CreateWorkingProcedureDlg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemFTZWDlg.h" />
+    <ClInclude Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemGTOBOMDlg.h" />
+    <ClInclude Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemGTODlg.h" />
+    <ClInclude Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemGTOOperationDuplicateDlg.h" />
+    <ClInclude Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CMSystemJGDDlg.h" />
+    <ClInclude Include="..\..\..\CM_ManuEngServiceFrm\PlanningStructureService.m\LocalGenerated\win_b64\CreateWorkingProcedureDlg.h" />
+  </ItemGroup>
+</Project>

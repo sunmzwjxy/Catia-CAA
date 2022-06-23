@@ -1,0 +1,22 @@
+!<mkRTViewData> v1.0.0
+RTV/002/DSI .\win_b64\code\productIC\CM_CUSAddinIC.required|.\CM_CUSAddin
+BTV/002/CUS .\win_b64\code\productIC\CM_CUSAddinIC.script|.\CM_CUSAddin
+BTV/002/CUS .\win_b64\code\productIC\CM_CUSAddinIC.xml|.\CM_CUSAddin
+CSC/002/DSI .\CM_CUSAddin\IdentityCard\Objects\win_b64\mkcsc\CM_CUSAddin.cscdb|.\CM_CUSAddin
+RTV/002/DSI .\win_b64\resources\msgcatalog\NlsTest\CM_CUSMBOMAddin.CATNls|.\CM_CUSAddin\CNext\resources\msgcatalog\CM_CUSMBOMAddin.CATNls
+RTV/002/DSI .\win_b64\resources\msgcatalog\DbcsTest\CM_CUSMBOMAddin.CATNls|.\CM_CUSAddin\CNext\resources\msgcatalog\CM_CUSMBOMAddin.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CM_CUSAddin.dico|.\CM_CUSAddin\CNext\code\dictionary\CM_CUSAddin.dico
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\FTZhanwei.jpg|.\CM_CUSAddin\CNext\resources\graphic\icons\normal\FTZhanwei.jpg
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\GTO.jpg|.\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTO.jpg
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\GTOClone.jpg|.\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTOClone.jpg
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\GTOOp.jpg|.\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTOOp.jpg
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\GTOpart.jpg|.\CM_CUSAddin\CNext\resources\graphic\icons\normal\GTOpart.jpg
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\JGD.jpg|.\CM_CUSAddin\CNext\resources\graphic\icons\normal\JGD.jpg
+DAT/002/CUS .\win_b64\resources\knowledge\scripts\DELPLMFProcessOccurrence_ImplementLinkCreation.CATRule|.\CM_CUSAddin\CNext\resources\knowledge\scripts\DELPLMFProcessOccurrence_ImplementLinkCreation.CATRule
+DAT/002/CUS .\win_b64\resources\knowledge\scripts\DELPLMFProcessOccurrence_ImplementLinkCreation.CATRuleExit|.\CM_CUSAddin\CNext\resources\knowledge\scripts\DELPLMFProcessOccurrence_ImplementLinkCreation.CATRuleExit
+DAT/002/CUS .\win_b64\resources\msgcatalog\CM_CUSMBOMAddin.CATNls|.\CM_CUSAddin\CNext\resources\msgcatalog\CM_CUSMBOMAddin.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CM_CUSMBOMAddin.CATRsc|.\CM_CUSAddin\CNext\resources\msgcatalog\CM_CUSMBOMAddin.CATRsc
+DAT/002/CUS .\win_b64\resources\msgcatalog\Simplified_Chinese\CM_CUSMBOMAddin.CATNls|.\CM_CUSAddin\CNext\resources\msgcatalog\Simplified_Chinese\CM_CUSMBOMAddin.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\Simplified_Chinese\CM_CUSMBOMAddin.CATRsc|.\CM_CUSAddin\CNext\resources\msgcatalog\Simplified_Chinese\CM_CUSMBOMAddin.CATRsc
+@type=codeFramework
+@built=true

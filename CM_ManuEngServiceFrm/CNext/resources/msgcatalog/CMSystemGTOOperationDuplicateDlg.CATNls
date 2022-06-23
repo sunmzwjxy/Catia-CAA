@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+Title = "Clone Operation";
+Frame1.Label1.Title = "GTO code";
+Frame1.Label2.Title = "GTO source";
+Frame1.PushButton_Search.Title = "Choose";
+Frame2.Label3.Title = "Choose Operation";
+Frame2.Label4.Title = "GTO Operation";
+Frame2.PushButton_Add.Title = " > ";
+Frame2.PushButton_Delete.Title = " < ";
+Frame2.PushButton_DeleteAll.Title = "<<";
+Frame2.Label5.Title = "Choose Opeation";
+Frame1.Label6.Title = "GTO Target";
+Frame1.Title = "GTO";
+Frame2.Title = "Choose Operation";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input GTO code is repeat";
+msg.inputCodeNull = "The GTO code need input";
+msg.nodeFatherNull = "Please select WorkPlan";
+msg.searchGTONull = "The input GTO does not found";

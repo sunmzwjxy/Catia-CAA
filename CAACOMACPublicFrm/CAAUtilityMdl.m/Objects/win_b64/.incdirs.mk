@@ -1,0 +1,8 @@
+/I"D:\Works\DS\CommomGTO\.\CAACOMACPublicFrm\CAAUtilityMdl.m\src"
+/I"D:\Works\DS\CommomGTO\.\CAACOMACPublicFrm\CAAUtilityMdl.m\LocalGenerated\win_b64"
+/I"D:\Works\DS\CommomGTO\.\CAACOMACPublicFrm\PrivateInterfaces"
+/I"D:\Works\DS\CommomGTO\.\CAACOMACPublicFrm\ProtectedInterfaces"
+/I"D:\Works\DS\CommomGTO\.\CAACOMACPublicFrm\PublicInterfaces"
+/I"D:\Works\DS\CommomGTO\.\CAACOMACPublicFrm\ImportedInterfaces\win_b64"
+/I"C:\Works\DS\B42\win_b64\.\tools\include\Windows"
+/I"C:\Works\DS\B42\win_b64\.\tools\include"

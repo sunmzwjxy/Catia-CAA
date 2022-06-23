@@ -1,0 +1,15 @@
+//CM_CUSProcessPlanAddinLT DELIPPRLivePPREditorWkbAddin  libCM_CUSManuEngAddin
+//CM_CUSProcessPlanAddinLT CATIManufacturingSystemDefinitionWorkbenchAddin  libCM_CUSManuEngAddin
+
+////CM_CUSProcessPlanAddinLT CATIAfrGeneralWksAddin  libCM_CUSManuEngAddin
+//CM_CUSProcessPlanAddinLT IDELWIWkbAddin  libCM_CUSManuEngAddin
+
+//CM_CUSProcessPlanAddinLT DNBIPPRNavWkbAddin  libCM_CUSManuEngAddin
+
+
+//CM_CUSMBOMAddinLT DELIPPRLivePPREditorWkbAddin libCM_CUSManuEngAddin
+CM_CUSMBOMAddinLT CATIAfrGeneralWksAddin libCM_CUSManuEngAddin
+
+//CM_CUSGTOBOMAddinLT CATIManufacturingSystemDefinitionWorkbenchAddin  libCM_CUSManuEngAddin
+//CM_CUSGTOBOMAddinLT CATIAfrGeneralWksAddin  libCM_CUSManuEngAddin
+

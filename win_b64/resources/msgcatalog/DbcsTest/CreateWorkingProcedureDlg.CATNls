@@ -1,0 +1,15 @@
+Label1.Title = "[十CreateWorkingProcedureDlg,Label1.Title十一構ソチ－Belong GTO/JGD]";
+Title = "[十CreateWorkingProcedureDlg,Title十一構ソチ－New Operation]";
+Label3.Title = "[十CreateWorkingProcedureDlg,Label3.Title十一構ソチ－Operation No*]";
+msg.effectivity = "[十CreateWorkingProcedureDlg,msg.effectivity十一構ソチ－Please correct Effectivity format]";
+JobStyles.Range = "[十CreateWorkingProcedureDlg,JobStyles.Range十一構ソチ－InstrumentTest,Maintenance,ModificationAssembly]";
+msg.uniqueIDError = "[十CreateWorkingProcedureDlg,msg.uniqueIDError十一構ソチ－The input Operation code is repeat]";
+msg.inputCodeNull = "[十CreateWorkingProcedureDlg,msg.inputCodeNull十一構ソチ－The Operation code need input]";
+Frame1.Title = "[十CreateWorkingProcedureDlg,Frame1.Title十一構ソチ－Operation Type]";
+CheckButton1.Title = "[十CreateWorkingProcedureDlg,CheckButton1.Title十一構ソチ－Reorder Operations]";
+Frame1.RadioButton1.Title = "[十CreateWorkingProcedureDlg,Frame1.RadioButton1.Title十一構ソチ－Unloading Operation]";
+msg.nodeFatherNull = "[十CreateWorkingProcedureDlg,msg.nodeFatherNull十一構ソチ－Please select GTO or JGD]";
+msg.Title = "[十CreateWorkingProcedureDlg,msg.Title十一構ソチ－Info]";
+Frame1.RadioButton3.Title = "[十CreateWorkingProcedureDlg,Frame1.RadioButton3.Title十一構ソチ－General Operation]";
+MachineCode.Range = "[十CreateWorkingProcedureDlg,MachineCode.Range十一構ソチ－CR929,C919,ARJ21]";
+Frame1.RadioButton2.Title = "[十CreateWorkingProcedureDlg,Frame1.RadioButton2.Title十一構ソチ－Loading Operation]";

@@ -1,0 +1,19 @@
+<meta charset="UTF-8"/>
+Title = "工序复用";
+Frame1.Label1.Title = "GTO编码";
+Frame1.Label2.Title = "需要复制的GTO";
+Frame1.PushButton_Search.Title = "选择";
+Frame2.Label3.Title = "工序选择";
+Frame2.Label4.Title = "GTO工序";
+Frame2.PushButton_Add.Title = " > ";
+Frame2.PushButton_Delete.Title = " < ";
+Frame2.PushButton_DeleteAll.Title = "<<";
+Frame2.Label5.Title = "选择复用的工序";
+Frame2.Title = "选择复用的工序";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input GTO code is repeat";
+msg.inputCodeNull = "The GTO code need input";
+msg.nodeFatherNull = "Please select WorkPlan";
+msg.searchGTONull = "The input GTO does not found";
+Frame1.Label6.Title = "GTO目标";

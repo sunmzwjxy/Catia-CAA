@@ -1,0 +1,443 @@
+﻿<DSxDevCodeGen
+  ExtensionName="DialogDesigner"
+  EngineVersion="1.0">
+  <Content
+    Version="1.1"
+    HasDesign="true">
+    <DesignModel>
+      <RootWidget
+        Type="CATDlgDialog"
+        ID="579b4d1c-1c5d-44fe-b017-c9570c6764b7"
+        Version="1.0"
+        Name="CMSystemJGDDlg"
+        UseOKButton="true"
+        UseCancelButton="true"
+        UseApplyButton="true"
+        AutoResize="true"
+        NotResizable="true"
+        Width="300"
+        Height="300"
+        Title="新建 JGD">
+        <Children
+          Type="List">
+          <Item
+            Type="CATDlgFrame"
+            ID="58831b32-720f-462e-a0a0-ece99fa923d9"
+            Version="1.0"
+            Name="Frame1"
+            Title="JGD信息">
+            <GridLayoutConstraint
+              Row="0"
+              Col="0"
+              Width="4"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="true"
+                AttachedToTop="true"
+                AttachedToBottom="true"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+            <Children
+              Type="List">
+              <Item
+                Type="CATDlgLabel"
+                ID="1924ff4e-a733-4ab2-80bf-b8c76d9f3fb6"
+                Version="1.0"
+                Name="Label1"
+                Title="名称*">
+                <GridLayoutConstraint
+                  Row="0"
+                  Col="0"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="false"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgLabel"
+                ID="737f9647-15fb-4ea8-98ad-90d908901aec"
+                Version="1.0"
+                Name="Label2"
+                Title="类型">
+                <GridLayoutConstraint
+                  Row="2"
+                  Col="0"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="false"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgLabel"
+                ID="3e89b8af-ab5d-4625-bc15-b5cef530e9a9"
+                Version="1.0"
+                Name="Label3"
+                Title="飞机型号">
+                <GridLayoutConstraint
+                  Row="4"
+                  Col="0"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="false"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgLabel"
+                ID="da7245d8-3c95-4056-a2fe-9103231701fd"
+                Version="1.0"
+                Name="Label4"
+                Title="飞机架次号*">
+                <GridLayoutConstraint
+                  Row="6"
+                  Col="0"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="false"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgLabel"
+                ID="3b43ef8e-d0cd-4dbd-8cd8-b4b3735d226a"
+                Version="1.0"
+                Name="Label5"
+                Title="版本">
+                <GridLayoutConstraint
+                  Row="8"
+                  Col="0"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="false"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgLabel"
+                ID="ea3a5715-c9e1-4e82-a376-829f7a26211b"
+                Version="1.0"
+                Name="Label6"
+                Title="描述">
+                <GridLayoutConstraint
+                  Row="10"
+                  Col="0"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="false"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgEditor"
+                ID="7f8d883f-8e8e-4984-9db8-b9a7e7f0d190"
+                Version="1.0"
+                Name="Editor1">
+                <GridLayoutConstraint
+                  Row="0"
+                  Col="1"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="true"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgEditor"
+                ID="d163b94f-ebdf-484e-9886-c3d06bda8805"
+                Version="1.0"
+                Name="Editor2"
+                Text="JGD"
+                Enabled="false">
+                <GridLayoutConstraint
+                  Row="2"
+                  Col="1"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="true"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgCombo"
+                ID="249f7d0b-c778-4cef-bbba-f0a3b19eade8"
+                Version="1.0"
+                Name="Combo1">
+                <GridLayoutConstraint
+                  Row="4"
+                  Col="1"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="true"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgEditor"
+                ID="45bfe680-14d6-4655-a469-8cc96c53300d"
+                Version="1.0"
+                Name="Editor3">
+                <GridLayoutConstraint
+                  Row="6"
+                  Col="1"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="true"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgEditor"
+                ID="af8014d6-a4a3-4bd8-b225-43ab49c0b25a"
+                Version="1.0"
+                Name="Editor4"
+                Text="A.1"
+                Enabled="false">
+                <GridLayoutConstraint
+                  Row="8"
+                  Col="1"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="true"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+              <Item
+                Type="CATDlgEditor"
+                ID="b8d40821-50db-4a7c-8c3c-1e34e9a643c3"
+                Version="1.0"
+                Name="Editor5">
+                <GridLayoutConstraint
+                  Row="10"
+                  Col="1"
+                  Width="1"
+                  Height="1">
+                  <Anchor
+                    AttachedToLeft="true"
+                    AttachedToRight="true"
+                    AttachedToTop="true"
+                    AttachedToBottom="false"
+                    ConstantWidth="false"
+                    ConstantHeight="false" />
+                </GridLayoutConstraint>
+              </Item>
+            </Children>
+            <GridResizableData>
+              <ResizableRows
+                Type="ScalarList"
+                Value="0;2;4;6;8;10" />
+              <ResizableColumns
+                Type="ScalarList"
+                Value="1;2;3;4" />
+            </GridResizableData>
+          </Item>
+        </Children>
+        <GridResizableData>
+          <ResizableRows
+            Type="ScalarList"
+            Value="0" />
+          <ResizableColumns
+            Type="ScalarList"
+            Value="1;2;3" />
+        </GridResizableData>
+      </RootWidget>
+    </DesignModel>
+    <CodeModel>
+      <UserCodes>
+        <ClassIncludes>
+          <UserCode><![CDATA[
+enum COMJGDAssemDlg_ControlID
+{
+	ID_NameEditor,
+	ID_WorkTypeEditor,
+	ID_AirCraftNoEdiror,
+	ID_VersionEditor,
+	ID_CommentsEditor,
+	ID_TypeCombo
+};
+
+]]></UserCode>
+        </ClassIncludes>
+        <ClassMembers>
+          <UserCode><![CDATA[
+public:
+CATDlgEditor* GetEditor(int iCtrlID);
+CATDlgCombo* GetCombo(int iCtrlID);
+
+]]></UserCode>
+        </ClassMembers>
+        <ImplementIncludes>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </ImplementIncludes>
+        <DialogConstructor>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </DialogConstructor>
+        <DialogDefaultConstructor>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </DialogDefaultConstructor>
+        <DialogDestructor>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </DialogDestructor>
+        <PreBuildCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </PreBuildCode>
+        <BuildAdditionalCode>
+          <UserCode><![CDATA[
+this->SetRectDimensions(800, 300, 300, 300);
+
+]]></UserCode>
+        </BuildAdditionalCode>
+        <UserActivateCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </UserActivateCode>
+        <UserDesactivateCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </UserDesactivateCode>
+        <UserCancelCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </UserCancelCode>
+        <UserImplementCode>
+          <UserCode><![CDATA[
+CATDlgEditor* CMSystemJGDDlg::GetEditor(int iCtrlID)
+{
+	/*
+	ID_NameEditor,
+	ID_WorkTypeEditor,
+	ID_AirCraftNoEdiror,
+	ID_VersionEditor,
+	ID_CommentsEdirot,
+	ID_TypeCombo
+	*/
+	CATDlgEditor* pEditor = NULL;
+	switch (iCtrlID)
+	{
+	case ID_NameEditor:
+		pEditor = _Editor1;
+		break;
+	case ID_WorkTypeEditor:
+		pEditor = _Editor2;
+		break;
+	case ID_AirCraftNoEdiror:
+		pEditor = _Editor3;
+		break;
+	case ID_VersionEditor:
+		pEditor = _Editor4;
+		break;
+	case ID_CommentsEditor:
+		pEditor = _Editor5;
+		break;
+	default:
+		break;
+	}
+
+	return pEditor;
+}
+
+CATDlgCombo* CMSystemJGDDlg::GetCombo(int iCtrlID)
+{
+	CATDlgCombo * pCombo = NULL;
+	switch (iCtrlID)
+	{
+	case ID_TypeCombo:
+		pCombo = _Combo1;
+		break;
+	default:
+		break;
+	}
+	return pCombo;
+}
+
+]]></UserCode>
+        </UserImplementCode>
+      </UserCodes>
+      <Callbacks
+        Type="List" />
+    </CodeModel>
+    <FileInfo
+      Visibility="Local"
+      HandleResources="true"
+      ModuleResources="" />
+  </Content>
+</DSxDevCodeGen>

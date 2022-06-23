@@ -1,0 +1,21 @@
+<meta charset="UTF-8"/>
+Title = "New GTO";
+Label1.Title = "站位代码";
+Label2.Title = "名称*";
+Label3.Title = "文件工作级别";
+Label4.Title = "安全防护标识";
+Label5.Title = "工作区域";
+Label6.Title = "工种";
+Label7.Title = "有效性*";
+Label8.Title = "描述";
+Label9.Title = "机型";
+
+workLevel.Range = "Key,important,general";
+Safetyidentify.Range = "N,Y";
+WorkArea.Range = "ZJS,JT,QJS,HJS,PW,CW,JY";
+skill.Range = "AV,ME,AV-ME";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input GTO code is repeat";
+msg.inputCodeNull = "The GTO code need input";
+msg.nodeFatherNull = "Please select FTZW";

@@ -1,0 +1,13 @@
+Label1.Title = "[十CMSystemFTZWDlg,Label1.Title十一構ソチ－Number]";
+Title = "[十CMSystemFTZWDlg,Title十一構ソチ－New FTZW]";
+Label3.Title = "[十CMSystemFTZWDlg,Label3.Title十一構ソチ－Name*]";
+msg.effectivity = "[十CMSystemFTZWDlg,msg.effectivity十一構ソチ－Please correct Effectivity format]";
+JobStyles.Range = "[十CMSystemFTZWDlg,JobStyles.Range十一構ソチ－InstrumentTest,Maintenance,ModificationAssembly]";
+msg.uniqueIDError = "[十CMSystemFTZWDlg,msg.uniqueIDError十一構ソチ－The input FTZW code is repeat]";
+msg.inputCodeNull = "[十CMSystemFTZWDlg,msg.inputCodeNull十一構ソチ－The FTZW code need input]";
+Label4.Title = "[十CMSystemFTZWDlg,Label4.Title十一構ソチ－Work type]";
+msg.nodeFatherNull = "[十CMSystemFTZWDlg,msg.nodeFatherNull十一構ソチ－Please select WorkPlan]";
+Label2.Title = "[十CMSystemFTZWDlg,Label2.Title十一構ソチ－Model]";
+msg.Title = "[十CMSystemFTZWDlg,msg.Title十一構ソチ－Info]";
+MachineCode.Range = "[十CMSystemFTZWDlg,MachineCode.Range十一構ソチ－CR929,C919,ARJ21]";
+Label5.Title = "[十CMSystemFTZWDlg,Label5.Title十一構ソチ－Effectivity*]";

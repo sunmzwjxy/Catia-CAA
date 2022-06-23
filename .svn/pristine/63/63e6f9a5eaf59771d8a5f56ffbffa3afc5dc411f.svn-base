@@ -1,0 +1,43 @@
+//----------------------------------------------------------------------------
+// SECTION
+//----------------------------------------------------------------------------
+GTODesignSection.Title="GTODesign";
+
+
+// FT ZW
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.Title = "新建 站位";
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.ShortHelp= "新建 站位 系统";
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.Help= "新建 站位 系统";
+CM_CUSMBOMAddin.CMCreateZWSystemHdr.LongHelp= "在工作计划节点下新建 站位 系统";
+
+// GTO
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.Title = "新建 GTO";
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.ShortHelp= "新建 GTO 系统";
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.Help= "新建 GTO 系统";
+CM_CUSMBOMAddin.CMCreateGTOSystemHdr.LongHelp= "在站位节点下新建 GTO 系统";
+
+// JDG
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.Title = "新建 改装JGD";
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.ShortHelp= "新建 改装JGD 系统";
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.Help= "新建 改装JGD 系统";
+CM_CUSMBOMAddin.CMCreateJGDSystemHdr.LongHelp= "在站位节点下新建 改装JGD 系统";
+
+// GTOBOM
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.Title = "新建 GTO 零组件";
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.ShortHelp= "新建 GTO 零组件 系统";
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.Help= "新建 GTO 零组件 系统";
+CM_CUSMBOMAddin.CMCreateGTOBOMSystemHdr.LongHelp= "在CreateAssembly节点下新建 GTO 零组件";
+
+// Opeartion
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.Title = "新建 工序";
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.ShortHelp= "新建 工序 系统";
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.Help= "新建 工序 系统";
+CM_CUSMBOMAddin.CMCreateOperationSystemHdr.LongHelp= "在GTO或改装JGD节点下新建 工序 系统";
+
+// GTO OP Duplicate
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.Title = "复制 工序";
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.ShortHelp= "复制 工序 系统";
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.Help= "复制 工序 系统";
+CM_CUSMBOMAddin.CMDuplicateGTOOPSystemHdr.LongHelp= "复制 工序 系统,请选中源和目标两个GTO节点,复制源GTO下面指定的工序到目标GTO.";
+
+

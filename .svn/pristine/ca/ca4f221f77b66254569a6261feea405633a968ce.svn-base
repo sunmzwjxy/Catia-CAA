@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+Title = "创建试飞站位";
+Label1.Title = "部门代码";
+Label2.Title = "机型代码";
+Label3.Title = "名称*";
+Label4.Title = "工作类别";
+Label5.Title = "有效性*";
+
+MachineCode.Range = "CR929,C919,ARJ21";
+JobStyles.Range = "InstrumentTest,Maintenance,ModificationAssembly";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input FTZW code is repeat";
+msg.inputCodeNull = "The FTZW code need input";
+msg.nodeFatherNull = "Please select WorkPlan";
+msg.effectivity = "Please correct Effectivity format";

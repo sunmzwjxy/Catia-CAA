@@ -1,0 +1,4 @@
+COMACWIAddinHeader.ViewToPic.Title = "[~COMACWIAddinHeader,dinHeader.ViewToPic.Title~ ??????]";
+COMACWIAddinHeader.ViewToPic.ShortHelp = "[~COMACWIAddinHeader,eader.ViewToPic.ShortHelp~ ????????????]";
+COMACWIAddinHeader.ViewToPic.Category = "[~COMACWIAddinHeader,Header.ViewToPic.Category~ COMAC]";
+COMACWIAddinHeader.ViewToPic.LongHelp = "[~COMACWIAddinHeader,Header.ViewToPic.LongHelp~ ????????????]";

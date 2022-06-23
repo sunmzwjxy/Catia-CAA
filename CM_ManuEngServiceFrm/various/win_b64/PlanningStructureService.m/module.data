@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CM_ManuEngServiceFrm\PlanningStructureService.m\Objects\win_b64\mkcsc\PlanningStructureService.cscdb|.\CM_ManuEngServiceFrm\PlanningStructureService.m
+RTV/001/CUS .\win_b64\code\bin\PlanningStructureService.dll|.\CM_ManuEngServiceFrm\PlanningStructureService.m
+BTV/000/CUS .\win_b64\code\lib\PlanningStructureService.lib|.\CM_ManuEngServiceFrm\PlanningStructureService.m
+INT/000/CUS .\win_b64\code\bin\PlanningStructureService.pdb|.\CM_ManuEngServiceFrm\PlanningStructureService.m
+INT/000/CUS .\win_b64\code\lib\PlanningStructureService.exp|.\CM_ManuEngServiceFrm\PlanningStructureService.m
+@type=SHAREDLIBRARY
+@clr=false
+@kind=Native
+@deliverable=true
+@built=true

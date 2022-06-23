@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+Title = "New GTO Part";
+Label1.Title = "Number";
+Label2.Title = "PART NAME";
+Label3.Title = "PART CODE";
+Label4.Title = "MFG DEPT";
+Label5.Title = "APL DEPT";
+Label6.Title = "Version";
+Label7.Title = "Description";
+
+PartCode.Range = "GTO,JGD";
+MFGDEPT.Range = "8012,8008";
+APLDEPT.Range = "8012,8008";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input GTOBOM code is repeat";
+msg.inputCodeNull = "The GTOBOM code need input";
+msg.nodeFatherNull = "Please select Assembly";

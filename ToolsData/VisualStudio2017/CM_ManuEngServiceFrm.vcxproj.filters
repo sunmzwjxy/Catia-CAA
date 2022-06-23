@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{d64b6e2f-de83-4fcc-8cec-8a79c6ce672c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{532ca578-26a1-478b-a19b-8ead1013f91e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{f16fb3d7-ceef-4d8c-981b-1ae2b169c336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog\Simplified_Chinese">
+      <UniqueIdentifier>{0ee3f656-965b-4655-82b2-5e8b37a5222a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{550dbcbc-6cfd-44d4-a635-1d717f232e41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{04c002dd-0b27-4863-affc-a18de2e5aa28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{54270696-ef5b-4f33-89cf-496d6564a6d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{39b57545-028d-4488-99aa-8933b825f1f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\CMCreateFTZWSystemCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\CMCreateGTOBOMSystemCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\CMCreateGTOSystemCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\CMCreateJGDSystemCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\CMCreateWorkingProcedureCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\CMDuplicateGTOOperationCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\CMSampleMultiDocumentGTOOperationCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\PrivateInterfaces\OperationCloneServer.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CM_ManuEngServiceFrm\ProtectedInterfaces\PlanningStructureService.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemFTZWDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemFTZWDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemGTOBOMDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemGTOBOMDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemGTODlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemGTODlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemGTOOperationDuplicateDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemGTOOperationDuplicateDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemJGDDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CMSystemJGDDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CreateWorkingProcedureDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\CreateWorkingProcedureDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemFTZWDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemFTZWDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemGTOBOMDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemGTOBOMDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemGTODlg.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemGTODlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemGTOOperationDuplicateDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemGTOOperationDuplicateDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemJGDDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CMSystemJGDDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CreateWorkingProcedureDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\CNext\resources\msgcatalog\Simplified_Chinese\CreateWorkingProcedureDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\CM_ManuEngServiceFrm\IdentityCard\README.md">
+      <Filter>IdentityCard</Filter>
+    </None>
+  </ItemGroup>
+</Project>

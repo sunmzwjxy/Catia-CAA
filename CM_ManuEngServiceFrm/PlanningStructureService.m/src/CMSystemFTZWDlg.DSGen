@@ -1,0 +1,361 @@
+﻿<DSxDevCodeGen
+  ExtensionName="DialogDesigner"
+  EngineVersion="1.0">
+  <Content
+    Version="1.1"
+    HasDesign="true">
+    <DesignModel>
+      <RootWidget
+        Type="CATDlgDialog"
+        ID="45d951ec-ab8c-44bb-b2ab-f9d2aa90e0c7"
+        Version="1.0"
+        Name="CMSystemFTZWDlg"
+        UseOKButton="true"
+        UseCancelButton="true"
+        UseApplyButton="true"
+        AutoResize="true"
+        NotResizable="true"
+        Width="300"
+        Height="300"
+        Title="New FTZW">
+        <Children
+          Type="List">
+          <Item
+            Type="CATDlgLabel"
+            ID="cee14115-495c-46e7-b44f-cc30681e6781"
+            Version="1.0"
+            Name="Label1"
+            Title="Number">
+            <GridLayoutConstraint
+              Row="0"
+              Col="0"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="false"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgLabel"
+            ID="e72ae387-3b7f-4ba7-96b6-a2bd4afd5f7b"
+            Version="1.0"
+            Name="Label2"
+            Title="Model">
+            <GridLayoutConstraint
+              Row="2"
+              Col="0"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="false"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgLabel"
+            ID="f4db674c-ed97-490c-90f4-992d14d6534c"
+            Version="1.0"
+            Name="Label3"
+            Title="Name*">
+            <GridLayoutConstraint
+              Row="4"
+              Col="0"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="false"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgLabel"
+            ID="4efbffcc-752d-4e2f-b8b1-a9d27e0765f2"
+            Version="1.0"
+            Name="Label4"
+            Title="Work type">
+            <GridLayoutConstraint
+              Row="6"
+              Col="0"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="false"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgLabel"
+            ID="228fc657-c782-419c-bcbb-c8fc215cb1c0"
+            Version="1.0"
+            Name="Label5"
+            Title="Effectivity*">
+            <GridLayoutConstraint
+              Row="8"
+              Col="0"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="false"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgEditor"
+            ID="3872a2b5-10cc-4bd4-8907-73f369c645d0"
+            Version="1.0"
+            Name="Editor1"
+            Text="8012"
+            Enabled="false">
+            <GridLayoutConstraint
+              Row="0"
+              Col="1"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="true"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgCombo"
+            ID="40728406-c713-4eb3-b7bc-269b5f2e56b6"
+            Version="1.0"
+            Name="Combo2">
+            <GridLayoutConstraint
+              Row="2"
+              Col="1"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="true"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgEditor"
+            ID="e0c23fe9-4a85-47b1-9f83-2d1e6efe4e3e"
+            Version="1.0"
+            Name="Editor3"
+            EditorType="Numerical">
+            <GridLayoutConstraint
+              Row="4"
+              Col="1"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="true"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgCombo"
+            ID="f536ca92-0475-4044-ae72-4158cf2983b5"
+            Version="1.0"
+            Name="Combo1">
+            <GridLayoutConstraint
+              Row="6"
+              Col="1"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="true"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+          <Item
+            Type="CATDlgEditor"
+            ID="df2041f8-56b0-4b31-b3fa-45def04561d6"
+            Version="1.0"
+            Name="Editor4">
+            <GridLayoutConstraint
+              Row="8"
+              Col="1"
+              Width="1"
+              Height="1">
+              <Anchor
+                AttachedToLeft="true"
+                AttachedToRight="true"
+                AttachedToTop="true"
+                AttachedToBottom="false"
+                ConstantWidth="false"
+                ConstantHeight="false" />
+            </GridLayoutConstraint>
+          </Item>
+        </Children>
+        <GridResizableData>
+          <ResizableRows
+            Type="ScalarList"
+            Value="0;2;4;6;8" />
+          <ResizableColumns
+            Type="ScalarList"
+            Value="1;2;3;4;5;6;7;8" />
+        </GridResizableData>
+      </RootWidget>
+    </DesignModel>
+    <CodeModel>
+      <UserCodes>
+        <ClassIncludes>
+          <UserCode><![CDATA[
+enum COMACGTOAssemDlg_ControlID
+{
+	ID_PartCodeEditor,
+	ID_NameEditor,
+	ID_ValidEditor,
+	ID_MachineCodeCombo,		// Combo2
+	ID_JobStylesCombo			// Combo1
+};
+
+]]></UserCode>
+        </ClassIncludes>
+        <ClassMembers>
+          <UserCode><![CDATA[
+public:
+CATDlgEditor* GetEditor(int iCtrlID);
+CATDlgCombo* GetCombo(int iCtrlID);
+
+]]></UserCode>
+        </ClassMembers>
+        <ImplementIncludes>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </ImplementIncludes>
+        <DialogConstructor>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </DialogConstructor>
+        <DialogDefaultConstructor>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </DialogDefaultConstructor>
+        <DialogDestructor>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </DialogDestructor>
+        <PreBuildCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </PreBuildCode>
+        <BuildAdditionalCode>
+          <UserCode><![CDATA[
+this->SetRectDimensions(800, 300, 300, 300);
+
+]]></UserCode>
+        </BuildAdditionalCode>
+        <UserActivateCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </UserActivateCode>
+        <UserDesactivateCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </UserDesactivateCode>
+        <UserCancelCode>
+          <UserCode><![CDATA[
+
+
+]]></UserCode>
+        </UserCancelCode>
+        <UserImplementCode>
+          <UserCode><![CDATA[
+CATDlgEditor* CMSystemFTZWDlg::GetEditor(int iCtrlID)
+{
+	CATDlgEditor* pEditor = NULL;
+	switch (iCtrlID)
+	{
+	case ID_PartCodeEditor:
+		pEditor = _Editor1;
+		break;
+	case ID_NameEditor:
+		pEditor = _Editor3;
+		break;
+	case ID_ValidEditor:
+		pEditor = _Editor4;
+		break;
+	default:
+		break;
+	}
+
+	return pEditor;
+}
+
+CATDlgCombo* CMSystemFTZWDlg::GetCombo(int iCtrlID)
+{
+	CATDlgCombo * pCombo = NULL;
+	switch (iCtrlID)
+	{
+	case ID_JobStylesCombo:
+		pCombo = _Combo1;
+		break;
+	case ID_MachineCodeCombo:
+		pCombo = _Combo2;
+		break;
+	default:
+		break;
+	}
+	return pCombo;
+}
+
+
+]]></UserCode>
+        </UserImplementCode>
+      </UserCodes>
+      <Callbacks
+        Type="List" />
+    </CodeModel>
+    <FileInfo
+      Visibility="Local"
+      HandleResources="true"
+      ModuleResources="" />
+  </Content>
+</DSxDevCodeGen>

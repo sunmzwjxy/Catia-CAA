@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+Title = "New FTZW";
+Label1.Title = "Number";
+Label2.Title = "Model";
+Label3.Title = "Name*";
+Label4.Title = "Work type";
+Label5.Title = "Effectivity*";
+
+MachineCode.Range = "CR929,C919,ARJ21";
+JobStyles.Range = "InstrumentTest,Maintenance,ModificationAssembly";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input FTZW code is repeat";
+msg.inputCodeNull = "The FTZW code need input";
+msg.nodeFatherNull = "Please select WorkPlan";
+msg.effectivity = "Please correct Effectivity format";

@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+Title = "新建GTO零组件";
+Label1.Title = "零组件号";
+Label2.Title = "零组件名称";
+Label3.Title = "零件代码";
+Label4.Title = "制造路线";
+Label5.Title = "使用单位";
+Label6.Title = "版本";
+Label7.Title = "描述";
+
+PartCode.Range = "GTO,JGD";
+MFGDEPT.Range = "8012,8008";
+APLDEPT.Range = "8012,8008";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input GTOBOM code is repeat";
+msg.inputCodeNull = "The GTOBOM code need input";
+msg.nodeFatherNull = "Please select Assembly";

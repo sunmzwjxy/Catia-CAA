@@ -1,0 +1,15 @@
+Label1.Title = "[~CreateWorkingProcedureDlg,Label1.Title~ Béløng GTO/JGD]";
+Title = "[~CreateWorkingProcedureDlg,Title~ Néw Operåtîøn]";
+Label3.Title = "[~CreateWorkingProcedureDlg,Label3.Title~ Opéråtîøn No*]";
+msg.effectivity = "[~CreateWorkingProcedureDlg,msg.effectivity~ Pléåse cørrect Effectîvity format]";
+JobStyles.Range = "[~CreateWorkingProcedureDlg,JobStyles.Range~ InstrüméntTest,Måîntenance,MødificationAssembly]";
+msg.uniqueIDError = "[~CreateWorkingProcedureDlg,msg.uniqueIDError~ Thé înpüt Operåtiøn code is repeat]";
+msg.inputCodeNull = "[~CreateWorkingProcedureDlg,msg.inputCodeNull~ Thé Operåtîøn code need inpüt]";
+Frame1.Title = "[~CreateWorkingProcedureDlg,Frame1.Title~ Opéråtîøn Type]";
+CheckButton1.Title = "[~CreateWorkingProcedureDlg,CheckButton1.Title~ Réørder Operåtîons]";
+Frame1.RadioButton1.Title = "[~CreateWorkingProcedureDlg,Frame1.RadioButton1.Title~ Unløådîng Opération]";
+msg.nodeFatherNull = "[~CreateWorkingProcedureDlg,msg.nodeFatherNull~ Pléåse select GTO ør JGD]";
+msg.Title = "[~CreateWorkingProcedureDlg,msg.Title~ Infø]";
+Frame1.RadioButton3.Title = "[~CreateWorkingProcedureDlg,Frame1.RadioButton3.Title~ Génerål Operatîøn]";
+MachineCode.Range = "[~CreateWorkingProcedureDlg,MachineCode.Range~ CR929,C919,ARJ21]";
+Frame1.RadioButton2.Title = "[~CreateWorkingProcedureDlg,Frame1.RadioButton2.Title~ Løådîng Opération]";

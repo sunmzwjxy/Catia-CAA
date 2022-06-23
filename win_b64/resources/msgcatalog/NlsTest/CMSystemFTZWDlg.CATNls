@@ -1,0 +1,13 @@
+Label1.Title = "[~CMSystemFTZWDlg,Label1.Title~ Nümbér]";
+Title = "[~CMSystemFTZWDlg,Title~ Néw FTZW]";
+Label3.Title = "[~CMSystemFTZWDlg,Label3.Title~ Nåmé*]";
+msg.effectivity = "[~CMSystemFTZWDlg,msg.effectivity~ Pléåse cørrect Effectîvity format]";
+JobStyles.Range = "[~CMSystemFTZWDlg,JobStyles.Range~ InstrüméntTest,Måîntenance,MødificationAssembly]";
+msg.uniqueIDError = "[~CMSystemFTZWDlg,msg.uniqueIDError~ Thé înpüt FTZW cøde is repeåt]";
+msg.inputCodeNull = "[~CMSystemFTZWDlg,msg.inputCodeNull~ Thé FTZW cøde need înpüt]";
+Label4.Title = "[~CMSystemFTZWDlg,Label4.Title~ Wørk typé]";
+msg.nodeFatherNull = "[~CMSystemFTZWDlg,msg.nodeFatherNull~ Pléåse select WørkPlan]";
+Label2.Title = "[~CMSystemFTZWDlg,Label2.Title~ Mødél]";
+msg.Title = "[~CMSystemFTZWDlg,msg.Title~ Infø]";
+MachineCode.Range = "[~CMSystemFTZWDlg,MachineCode.Range~ CR929,C919,ARJ21]";
+Label5.Title = "[~CMSystemFTZWDlg,Label5.Title~ Efféctîvity*]";

@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+Title = "New JGD";
+Frame1.Label1.Title = "Card*";
+Frame1.Label2.Title = "Work Type";
+Frame1.Label3.Title = "Type";
+Frame1.Label4.Title = "AirCraft No*";
+Frame1.Label5.Title = "Version";
+Frame1.Label6.Title = "Description";
+
+JGDCode.Range = "CR929,C919,ARJ21";
+
+msg.Title = "Info";
+msg.uniqueIDError = "The input JGD code is repeat";
+msg.inputCodeNull = "The JGD code need input";
+msg.nodeFatherNull = "Please select WorkPlan";
+Frame1.Title = "JGD Infomation";

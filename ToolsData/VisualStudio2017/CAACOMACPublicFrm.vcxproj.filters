@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{13293456-a9d7-4841-ac8e-c46609004735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{63fb9b80-15c8-4ef1-ab43-ec0aecaa8de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{7a1b76b6-b28c-423b-b2c7-4fb719e05778}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{9b11aefc-e937-4118-b474-a9ef0294fdf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic">
+      <UniqueIdentifier>{9ab83f65-5e67-4a24-a5e6-c0e9c2f7c7c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons">
+      <UniqueIdentifier>{589c16e0-3fc0-4fcd-a72f-19fb4c38a2c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\normal">
+      <UniqueIdentifier>{7097da60-6a55-487f-bd60-72084cbf73c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{0895eb24-5ab7-4840-a66f-63820f9789c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog\Simplified_Chinese">
+      <UniqueIdentifier>{d2e3c481-e963-444b-b2a9-3afff700a574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{c6a67776-1c09-4b3f-b491-b38a1a3760df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{b85708f8-36a0-4a59-a89a-adde9b5a40d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{09f921d4-3ec5-45a9-9617-acda03ea4478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{1eea2ee4-7128-4f13-bda0-de327a50a445}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAACOMACPublicFrm\ProtectedInterfaces\CAACOMACAddinMdl.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAACOMACPublicFrm\PublicInterfaces\CAAUtility.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAACOMACPublicFrm\PublicInterfaces\CAAUtilityMdl.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\code\dictionary\CAACOMACPublicFrm.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\graphic\icons\normal\I_COMAC_InitPPR.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\graphic\icons\normal\I_COMAC_View2Pic.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\graphic\icons\normal\I_DELStrMfgGenOperationByCatalog.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\graphic\icons\normal\I_MajorVersion.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\graphic\icons\normal\I_RenameAllTpoints.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\graphic\icons\normal\I_Reorder.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\graphic\icons\normal\SWXUiAssemblyProductStructureHeader.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\COMACCommonAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\COMACCommonAddinHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\COMACCommonAddinHeader.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\COMACWIAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\COMACWIAddinHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\COMACWIAddinHeader.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\Simplified_Chinese\COMACCommonAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\Simplified_Chinese\COMACCommonAddinHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\Simplified_Chinese\COMACWIAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\CNext\resources\msgcatalog\Simplified_Chinese\COMACWIAddinHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog\Simplified_Chinese</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\CAACOMACPublicFrm\IdentityCard\README.md">
+      <Filter>IdentityCard</Filter>
+    </None>
+  </ItemGroup>
+</Project>

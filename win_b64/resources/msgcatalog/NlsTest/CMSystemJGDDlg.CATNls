@@ -1,0 +1,13 @@
+Title = "[~CMSystemJGDDlg,Title~ Néw JGD]";
+msg.uniqueIDError = "[~CMSystemJGDDlg,msg.uniqueIDError~ Thé înpüt JGD cøde is repeåt]";
+msg.inputCodeNull = "[~CMSystemJGDDlg,msg.inputCodeNull~ Thé JGD cøde need înpüt]";
+Frame1.Title = "[~CMSystemJGDDlg,Frame1.Title~ JGD Infømåtîon]";
+Frame1.Label6.Title = "[~CMSystemJGDDlg,Frame1.Label6.Title~ Déscrîptiøn]";
+Frame1.Label4.Title = "[~CMSystemJGDDlg,Frame1.Label4.Title~ AîrCråft Nø*]";
+Frame1.Label5.Title = "[~CMSystemJGDDlg,Frame1.Label5.Title~ Vérsîøn]";
+Frame1.Label2.Title = "[~CMSystemJGDDlg,Frame1.Label2.Title~ Wørk Typé]";
+Frame1.Label3.Title = "[~CMSystemJGDDlg,Frame1.Label3.Title~ Typé]";
+Frame1.Label1.Title = "[~CMSystemJGDDlg,Frame1.Label1.Title~ Cård*]";
+msg.nodeFatherNull = "[~CMSystemJGDDlg,msg.nodeFatherNull~ Pléåse select WørkPlan]";
+msg.Title = "[~CMSystemJGDDlg,msg.Title~ Infø]";
+JGDCode.Range = "[~CMSystemJGDDlg,JGDCode.Range~ CR929,C919,ARJ21]";

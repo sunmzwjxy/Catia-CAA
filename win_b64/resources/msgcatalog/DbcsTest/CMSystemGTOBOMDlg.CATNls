@@ -1,0 +1,15 @@
+Label1.Title = "[十CMSystemGTOBOMDlg,Label1.Title十一構ソチ－Number]";
+Title = "[十CMSystemGTOBOMDlg,Title十一構ソチ－New GTO Part]";
+Label3.Title = "[十CMSystemGTOBOMDlg,Label3.Title十一構ソチ－PART CODE]";
+msg.uniqueIDError = "[十CMSystemGTOBOMDlg,msg.uniqueIDError十一構ソチ－The input GTOBOM code is repeat]";
+msg.inputCodeNull = "[十CMSystemGTOBOMDlg,msg.inputCodeNull十一構ソチ－The GTOBOM code need input]";
+PartCode.Range = "[十CMSystemGTOBOMDlg,PartCode.Range十一構ソチ－GTO,JGD]";
+Label4.Title = "[十CMSystemGTOBOMDlg,Label4.Title十一構ソチ－MFG DEPT]";
+Label6.Title = "[十CMSystemGTOBOMDlg,Label6.Title十一構ソチ－Version]";
+msg.nodeFatherNull = "[十CMSystemGTOBOMDlg,msg.nodeFatherNull十一構ソチ－Please select Assembly]";
+Label2.Title = "[十CMSystemGTOBOMDlg,Label2.Title十一構ソチ－PART NAME]";
+msg.Title = "[十CMSystemGTOBOMDlg,msg.Title十一構ソチ－Info]";
+MFGDEPT.Range = "[十CMSystemGTOBOMDlg,MFGDEPT.Range十一構ソチ－8012,8008]";
+APLDEPT.Range = "[十CMSystemGTOBOMDlg,APLDEPT.Range十一構ソチ－8012,8008]";
+Label5.Title = "[十CMSystemGTOBOMDlg,Label5.Title十一構ソチ－APL DEPT]";
+Label7.Title = "[十CMSystemGTOBOMDlg,Label7.Title十一構ソチ－Description]";
